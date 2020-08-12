@@ -1,0 +1,2 @@
+[0812/195047.945:ERROR:registration_protocol_win.cc(103)] CreateFile: The system cannot find the file specified. (0x2)
+[0812/201122.104:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\EDUARD~1.SAN\AppData\Local\Temp\scoped_dir24348_1096149129\Crashpad: The system cannot find the file specified. (0x2)

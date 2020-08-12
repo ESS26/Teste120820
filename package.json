@@ -1,0 +1,11 @@
+{
+  "name": "automacao_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor"
+  },
+  "author": "Eduardo",
+  "license": "ISC"
+}
